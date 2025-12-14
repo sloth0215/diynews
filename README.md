@@ -87,10 +87,9 @@ VS Code (Python Flask API) → OpenAI API → Firebase
 #### Twitter (X)
 ```python
 # TwitterAPI.io를 통한 효율적인 트윗 수집
-- 공개 계정의 최근 트윗 자동 수집
+- 공개 계정의 최근 트윗 수집
 - 이미지 URL 추출: extendedEntities.media[0].media_url_https
 - 사용자 아바타 표시
-- 엔가지먼트 통계 수집 (좋아요, 리트윗, 댓글 수)
 ```
 
 #### YouTube
@@ -99,7 +98,7 @@ VS Code (Python Flask API) → OpenAI API → Firebase
 - 채널 ID 자동 탐색
 - 공식 YouTube RSS Feed 파싱
 - 썸네일 이미지 자동 추출
-- 조회수 및 공개 날짜 수집
+- 날짜 수집
 ```
 
 #### 블로그 (Naver Blog 등)
