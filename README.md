@@ -14,6 +14,12 @@
 11. [한계점 및 개선 방향](#한계점-및-개선-방향)
 
 ---
+<img width="1198" height="948" alt="메인" src="https://github.com/user-attachments/assets/319939a9-8c3f-430e-8e29-42dbf64525bf" />
+<img width="1030" height="948" alt="일정" src="https://github.com/user-attachments/assets/83e01ec2-53aa-4a2b-b021-1993eb7eb81c" />
+<img width="910" height="942" alt="북마크" src="https://github.com/user-attachments/assets/1d686a84-6950-436b-8913-89728a1143dd" />
+<img width="966" height="951" alt="설정" src="https://github.com/user-attachments/assets/4f126763-5792-4f3f-b8aa-a481ec7b3662" />
+
+
 
 ## 프로젝트 개요
 
