@@ -16,8 +16,9 @@
 ---
 <img width="1198" height="948" alt="메인" src="https://github.com/user-attachments/assets/319939a9-8c3f-430e-8e29-42dbf64525bf" />
 <img width="1030" height="948" alt="일정" src="https://github.com/user-attachments/assets/83e01ec2-53aa-4a2b-b021-1993eb7eb81c" />
-<img width="910" height="942" alt="북마크" src="https://github.com/user-attachments/assets/1d686a84-6950-436b-8913-89728a1143dd" />
+<img width="910" height="333" alt="북마크" src="https://github.com/user-attachments/assets/ba149343-7083-448d-aa73-f4c69dc87a86" />
 <img width="966" height="951" alt="설정" src="https://github.com/user-attachments/assets/4f126763-5792-4f3f-b8aa-a481ec7b3662" />
+![제목 없는 비디오 - Clipchamp로 제작](https://github.com/user-attachments/assets/459f55cc-4664-4969-88e0-665ab1e1628f)
 
 
 
@@ -30,6 +31,7 @@
 소셜 미디어 플랫폼들이 다원화되면서 사용자가 여러 플랫폼을 동시에 확인해야 하는 문제 발생:
 - 트위터에서 소식을 보고, 유튜브에서 영상을 확인하고, 블로그를 방문하는 등 플랫폼 간 이동의 번거로움
 - 중요한 일정(콘서트, 발매일, 라이브 방송 등)이 게시물에 분산되어 있어 놓치기 쉬움
+- 보고 싶은 정보만 보고싶음
 
 **해결 목표**: 
 - 여러 플랫폼의 피드를 한 곳에서 통합 관리
